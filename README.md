@@ -1,16 +1,55 @@
-## Hi there 👋
+#  memcpy
 
-<!--
-**LordPompieru/LordPompieru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Low-level development, reverse engineering, and tooling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I work on:
+- Reverse engineering
+- Obfuscation / deobfuscation
+- Runtime analysis
+- Bytecode and VM-related tooling
+
+---
+
+## Skills
+
+- Lua  
+- JavaScript / TypeScript  
+- Assembly  
+- Learning C  
+
+---
+
+## Projects
+
+### TypeScript Bloatless GUI
+Minimal GUI framework focused on reducing overhead and avoiding unnecessary abstraction.
+
+### Lua Obfuscator
+Custom obfuscation system for Lua with emphasis on structure transformation and analysis resistance.
+
+### JavaScript Obfuscator
+Obfuscation pipeline for JavaScript with control flow and structure transformations.
+
+### Lua Universal Opcode Dumper
+Runtime tool for extracting and analyzing Lua bytecode execution.
+
+### Lua Environment Logger
+Logs runtime environment state, including globals, functions, and modifications.
+
+### VMProtect Import Recovery
+Tooling for recovering hidden or virtualized imports from protected binaries.
+
+---
+
+## Focus
+
+- Runtime inspection and analysis  
+- Code transformation pipelines  
+- Low-level tooling  
+- Reverse engineering  
+
+---
