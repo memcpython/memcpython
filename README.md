@@ -1,6 +1,6 @@
 #  LSD
 
-- Lua / Luau / Assembly / C / C#
+- Lua / Luau / Luajit / Assembly / C / C#
 
 Projects im currently working on or i already finished them:
 - Luajit Decompiler [FINISHED] --> https://dejitify.duckdns.org/
